@@ -1,0 +1,1 @@
+D:\OneDrive\edx\XAML\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
